@@ -54,7 +54,3 @@ Train a deep learning model to classify structured data using:
 - Achieved high classification accuracy with early stopping enabled
 - Plotted training & validation loss to monitor overfitting
 - Demonstrated good separation between predicted classes
-
----
-
-This project was completed as part of a data science learning series.
